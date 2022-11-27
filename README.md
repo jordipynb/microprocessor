@@ -1,3 +1,3 @@
-# Microprocesador
-Este proyecto está orientado a la realización de un microprocesador mediante Logisim, desarrollando cada parte de su funcionamiento.  
-Para probarlo, existe un espacio dedicado, hecho en lenguaje ensamblador, validando su correctitud (CIRC -> MIPS)
+# Microprocessor
+This project is oriented to the realization of a microprocessor through Logisim, developing each part of its operation.  
+To test it, there is a dedicated space, made in assembly language, validating its correctness (CIRC -> MIPS)
